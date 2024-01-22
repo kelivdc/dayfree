@@ -1,0 +1,18 @@
+{
+  "kind": "singleType",
+  "collectionName": "sipintars",
+  "info": {
+    "singularName": "sipintar",
+    "pluralName": "sipintars",
+    "displayName": "Sipintar"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "token": {
+      "type": "string"
+    }
+  }
+}
